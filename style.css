@@ -80,7 +80,7 @@ main {
 }
 
 #home {
-    background: linear-gradient(rgba(4, 123, 0, 0.347), rgba(0, 0, 0, 0.634)), url("To9n.gif");
+    background: linear-gradient(rgba(4, 123, 0, 0.347), rgba(0, 0, 0, 0.634)), url("./assets/To9n.gif");
     background-position: center;
     background-size: cover;
     height: 90ch;
@@ -208,7 +208,7 @@ main {
 }
 
 #contact {
-    background: linear-gradient(rgba(7, 68, 1, 0.455), rgba(0, 0, 0, 0.466)), url("green\ photo.webp");
+    background: linear-gradient(rgba(7, 68, 1, 0.455), rgba(0, 0, 0, 0.466)), url("./assets/green\ photo.webp");
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -367,7 +367,7 @@ textarea {
 }
 
 .descriptionP1 {
-    background-image: url("./project.png");
+    background-image: url("./assets/project.png");
     background-size: cover;
     background-position: bottom;
     width: 100%;
@@ -378,7 +378,7 @@ textarea {
 }
 
 .descriptionP2 {
-    background-image: url("./project\ 3.webp");
+    background-image: url("./assets/project\ 3.webp");
     background-size: cover;
     background-position: bottom;
     width: 100%;
@@ -407,7 +407,7 @@ textarea {
 
 .descriptionP1:hover,
 .descriptionP2:hover {
-    background: linear-gradient(rgba(0, 0, 0, 0.266), rgba(255, 255, 255, 0.26)), url("./texture-close-up-blurred-plants.jpg");
+    background: linear-gradient(rgba(0, 0, 0, 0.266), rgba(255, 255, 255, 0.26)), url("./assets/texture-close-up-blurred-plants.jpg");
     /* background-size: cover; */
     width: 100%;
     height: 16em;
